@@ -1,4 +1,4 @@
-04.02.2020-04.03.2020
+04.02.2020-04.05.2020
 
 # How updated are school websites with online learning resources in response to COVID-19?
 
@@ -22,8 +22,10 @@ I am curious to see the range in responses across different schools/geographic a
 * An illustrative map of schools in Orange County
 
 ### Illustrative map
+Heatmap California
 ![Heatmap state](CA_Map2.png)
 
+Geomap for OC schools, random sample of 250 data points
 ![School websites with online resources, OC map](OC_040420.png)
 
 
