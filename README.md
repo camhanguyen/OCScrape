@@ -16,8 +16,14 @@ I am curious to see the range in responses across different schools/geographic a
 
 ### This repository includes:
 * The code base for scraping the sites
+* The code base for generating a heatmap for the state
+* The code base for generating geomap for Orange County
+* An illustrative heatmap of school websites mentioning online learning keywords, based on the total sample
 * An illustrative map of schools in Orange County
 
 ### Illustrative map
+![Heatmap state](CA_Map2.png)
 
 ![School websites with online resources, OC map](OC_040420.png)
+
+
