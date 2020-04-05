@@ -17,3 +17,6 @@ I am curious to see the range in responses across different schools/geographic a
 ### This repository includes:
 * The code base for scraping the sites
 * An illustrative map of schools in Orange County
+
+### Illustrative map
+![alt text](https://github.com/camhanguyen/OCScrape/OC_040420.png "School Websites with Online Resources, OC")
